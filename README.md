@@ -1019,6 +1019,3 @@ The central design principle is **grounded, explainable, modular AI decision sup
 **ML:** scikit-learn  
 **Deployment:** Docker / Docker Compose / Cloudflare Tunnel
 
-## Disclaimer
-
-This project is an academic/internship prototype intended for demonstration and experimentation. It is not a substitute for authoritative maritime, customs, financial, contractual, or safety systems. Always validate operational decisions against current authoritative sources before real-world use.
